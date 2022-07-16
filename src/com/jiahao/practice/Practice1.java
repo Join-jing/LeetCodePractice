@@ -24,4 +24,8 @@ public class Practice1 {
 		return nums;
     }
 
+    public static void main(String[] args) {
+		System.out.println("s");
+	}
+
 }
